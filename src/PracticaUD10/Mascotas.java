@@ -17,19 +17,8 @@ public abstract class Mascotas {
 		return nombre;
 	}
 
-	
-
-
-
 	public String getEstado() {
 		return estado;
 	}
-
-
-
-
-
-	
-
 
 }
